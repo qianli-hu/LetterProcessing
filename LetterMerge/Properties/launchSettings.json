@@ -2,7 +2,7 @@
   "profiles": {
     "LetterMerge": {
       "commandName": "Project",
-      "commandLineArgs": "Root",
+      "commandLineArgs": "Root 2023",
       "workingDirectory": "C:\\Users\\qianl\\source\\repos\\LetterMerge\\LetterMerge"
     }
   }

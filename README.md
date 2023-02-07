@@ -16,8 +16,10 @@
 **Usage**
 - Download the repository and extract the repository.
 - Open the LetterMerge.sln file, and use the Solution Explorer to open the entire repository.
-- In visual studio, click on the debug tab select "LetterMerge debug properties".
-- Set: 1) commandline arguments to be "Root 20230206" (no need to type the quotation marks) & 2) working directory to be the LetterMerge subfolder under the LetterProcessing-master folder. So if the downloaded and extracted path is on a Desktop, the whole path looks something like "C:\Users\<user name>\Desktop\LetterProcessing-master\LetterMerge"
+- In visual studio, click on the debug tab; select "LetterMerge debug properties".
+- Set: 
+  - commandline arguments to be "Root 20230206" (no need to type the quotation marks)
+  - working directory to be the LetterMerge subfolder under the LetterProcessing-master folder. So if the downloaded and extracted path is on a Desktop, the whole path looks something like "C:\Users\<user name>\Desktop\LetterProcessing-master\LetterMerge"
 - Run the program. 
 - Expected results: Under the "Root" folder in the LetterMerge project, the report and combined letters will be generated in the newly-created "20230206" subfolder of the Output folder, and the letters will be archived in the created "20230206" subfolders of the "Admission" and "Scholarship" subfolders of the Archive folder.
 - To run the testing, select the Test tab, open Test Explorer, and run all tests.

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LetterMerge": {
+      "commandName": "Project",
+      "commandLineArgs": "Root",
+      "workingDirectory": "C:\\Users\\qianl\\source\\repos\\LetterMerge\\LetterMerge"
+    }
+  }
+}
